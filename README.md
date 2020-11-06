@@ -1,7 +1,7 @@
 Progetto, Argomento
 ===================
 
-Questo repository contiene la documentazione relativa al Project Work [NOME PROGETTO]() realizzato nell'ambito del [Master in Management del Software Libero](https://www.managementsoftwarelibero.it/), III ed, a.a. 2019/2020, attivato presso il [Dipartimento di Studi per l’Economia e l’Impresa dell’Università degli Studi del Piemonte Orientale](https://www.uniupo.it/tuttostudenti/lofferta-formativa-colpo-docchio/i-master/i-livello/management-software-libero-iii-ed), grazie al finanziamento della Regione Piemonte.
+Questo repository contiene la documentazione relativa al Project Work [NOME PROGETTO](https://il-taccuino-personale-del-fascicolo-sanitario-elettronico.readthedocs.io/en/latest/) realizzato nell'ambito del [Master in Management del Software Libero](https://www.managementsoftwarelibero.it/), III ed, a.a. 2019/2020, attivato presso il [Dipartimento di Studi per l’Economia e l’Impresa dell’Università degli Studi del Piemonte Orientale](https://www.uniupo.it/tuttostudenti/lofferta-formativa-colpo-docchio/i-master/i-livello/management-software-libero-iii-ed), grazie al finanziamento della Regione Piemonte.
 
 L'**obiettivo** del progetto è ... bla bla bla.
 
