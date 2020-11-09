@@ -19,12 +19,13 @@ Nel Capitolo 5 vengono presentate le conclusioni emerse dal contesto analizzato.
 **Indice**
 
 .. toctree::
-
-   MOS-PW-CyberSecurity-1.rst
-   MOS-PW-CyberSecurity-2.rst
-   MOS-PW-CyberSecurity-3.rst
-   MOS-PW-CyberSecurity-4.rst
-   MOS-PW-CyberSecurity-5.rst
+   :titlesonly:
+   
+   MOS-PW-CyberSecurity-1
+   MOS-PW-CyberSecurity-2
+   MOS-PW-CyberSecurity-3
+   MOS-PW-CyberSecurity-4
+   MOS-PW-CyberSecurity-5
 
 
 .. figure:: immagini/msl-logo.jpg
