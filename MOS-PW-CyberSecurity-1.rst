@@ -25,7 +25,7 @@ portare a bloccare intere aziende nella loro normale operatività con
 ingenti perdite economiche, di immagine e di produttività delle stesse.
 
 |image1|\ Nel grafo è riportato l’andamento degli ultimi sei anni e di
-come questo fenomeno sta aumentando.
+come questo fenomeno stia aumentando.
 
 Questo fenomeno è naturalmente esteso a livello internazionale in tutte
 quelle nazioni che ad oggi presentano un minimo livello di
@@ -40,7 +40,7 @@ La Comunità Europea ha approvato nel 2016 la **Direttiva NIS 2016/1148**
 per la realizzazione in Europa di un ambiente digitale sicuro e
 affidabile.
 
-E' stata recepita col Decreto Legislativo 18 maggio 2018, n.65,
+E' stata recepita col Decreto Legislativo 18 maggio 2018, n. 65,
 pubblicato sulla Gazzetta Ufficiale n. 132 del 9 giugno 2018 (entrato in
 vigore il 24 giugno 2018).
 
@@ -98,7 +98,7 @@ Team**\ (CSIRT) italiano, informandone anche l’Autorità competente NIS
 di riferimento.
 
 Il CSIRT italiano è istituito presso la Presidenza del Consiglio dei
-ministri mediante unificazione del Computer Emergency Response Team
+Ministri mediante unificazione del Computer Emergency Response Team
 (CERT) Nazionale e del CERT-PA. Si occupa di:
 
 -  definire le procedure per la prevenzione e la gestione degli
@@ -187,7 +187,7 @@ pubblici.
 
 Il processo è distinto in tre fasi ben distinte che hanno avuto inizio
 nel 2017 con la pubblicazione da parte dell’Agenzia per l’Italia
-Digitale della circolare n 5 del 30 novembre 2017.
+Digitale della circolare n. 5 del 30 novembre 2017.
 
 La finalità di questo censimento era\ **l’individuazione delle
 infrastrutture candidate a ricoprire il ruolo di PSN** (Poli Strategici
@@ -323,7 +323,7 @@ struttura.
 
 Per la grande maggioranza tutti gli attori della Community avranno una
 propria struttura non solo organizzativa, di processo ma anche di propri
-sistemi informativi che ad oggi li supportono nelle loro attività.
+sistemi informativi che ad oggi li supportino nelle loro attività.
 
 Struttura Organizzativa
 -----------------------
@@ -351,7 +351,7 @@ più si addice a questa analisi di contesto:
 -  **Sistemi Operativi**: sarà necessario sviluppare un sistema
    informativo per mantenere un coordinamento sulle attività.
 
-I punti di forza di questo struttura sono sicuramente: la gestione
+I punti di forza di questa struttura sono sicuramente: la gestione
 integrata e unitaria del business, una maggior rapidità dei processi
 decisionali e una maggior risposta ai cambiamenti in un ambiente in
 continua evoluzione coadiuvata da una flessibilità strategica nella
@@ -371,15 +371,15 @@ tipo di struttura, sono:
    periodo
 
 Sono da considerarsi poco rilevanti per come questo progetto dovrà
-portare a compimento il progetto. L’ambiente infatti non è assolutamente
-quello di una grande azienda orientata agli utili ma sarà quello di
-mettere a fattor comune l’esperienza di tutti gli attori per un
-obiettivo comune e, quindi, i tre aspetti sopra elencati possono essere
-per il momento considerati come non critici.
+portare a compimento il risultato previsto. L’ambiente infatti non è
+assolutamente quello di una grande azienda orientata agli utili ma sarà
+quello di mettere a fattor comune l’esperienza di tutti gli attori per
+un obiettivo comune e, quindi, i tre aspetti sopra elencati possono
+essere per il momento considerati come non critici.
 
 Uno degli aspetti critici che invece dovranno essere tenuti sotto
 controllo e sicuramente l’aspetto del coordinamento che dovrà
-preoccuparsi di mantenere viva la community, suddividendo i compiti e le
+preoccuparsi di mantenere viva la Community, suddividendo i compiti e le
 attività tra gli attori coinvolti definendo processi idonei sia in fase
 di raccolta requisiti che di realizzazione di un Security Information
 and Event Management (SIEM) a livello nazionale.
@@ -400,7 +400,7 @@ Mission
 
 Il project work ha come obbiettivo l’integrazione di eventi di sicurezza
 che ogni infrastruttura partecipante al progetto possa fornire
-permettendo così che ogni attore diventi fornitore di propri eventi che
+permettendo così che ogni attore diventi fornitore dei propri eventi che
 potranno essere consumati dagli attori restanti. Questo permetterà un
 accrescimento da parte di tutti sull’apprendimento e sulle modalità di
 gestione di eventi critici creando una base di conoscenza noto a tutti e
