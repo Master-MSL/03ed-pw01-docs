@@ -16,13 +16,11 @@ Nel Capitolo 4 vengono presentati gli aspetti legali: approfondendo l'uso di qua
 
 Nel Capitolo 5 vengono presentate le conclusioni emerse dal contesto analizzato.
 
-**Indice**
-
 .. toctree::
-      :glob:
-      :titlesonly:
+   :glob:
+   :titlesonly:
    
-   *
+   MOS-PW-CyberSecurity-1
 
 .. figure:: immagini/msl-logo.jpg
    :scale: 25 %
