@@ -20,7 +20,7 @@ Nel Capitolo 5 vengono presentate le conclusioni emerse dal contesto analizzato.
    :glob:
    :titlesonly:
    
-   MOS-PW-CyberSecurity-1
+   MOS-PW-CyberSecurity-1.rst
 
 .. figure:: immagini/msl-logo.jpg
    :scale: 25 %
