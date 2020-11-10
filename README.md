@@ -10,6 +10,6 @@ Verrà fornito un percorso di valutazione di scelte fatte da un punto di vista s
 Link
 ----
 
-Link alla [documentazione compilata su Docs Italia]().
+Link alla [documentazione compilata su Docs Italia](index.rst).
 Link guida all'utilizzo del markup [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
 
