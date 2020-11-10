@@ -1,4 +1,3 @@
-
 Analisi Organizzativa
 =====================
 
@@ -2227,7 +2226,7 @@ software-base, altamente scalabili, anche totalmente open-source
 permettendo una gestione ad ulteriori problematiche di lock-in ed a una
 rivisitazione della spesa complessiva ad oggi ancora molto elevata.
 
-.. |image1| image:: immagini/1000000000000300000001B012DB9774AD3657B9.jpg
+.. |image1| image:: ./immagini/1000000000000300000001B012DB9774AD3657B9.jpg
    :width: 17cm
    :height: 9.562cm
 .. |image2| image:: immagini/10000000000006290000049FE24F4713C77950D3.jpg
