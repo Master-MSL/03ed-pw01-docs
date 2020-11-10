@@ -16,9 +16,10 @@ Nel Capitolo 4 vengono presentati gli aspetti legali: approfondendo l'uso di qua
 
 Nel Capitolo 5 vengono presentate le conclusioni emerse dal contesto analizzato.
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Indice dei contenuti
+.. contents::
+    :backlinks: none
+
+.. sectnum::
 
   mos_pw_cybersecurity_1.rst
   mos_pw_cybersecurity_2.rst
