@@ -1177,3 +1177,30 @@ all’utilizzatore finale di aver maggior fiducia verso questi progetti.
 .. |image15| image:: immagini/100000000000042F0000017D68186EAE385F4ED3.png
    :width: 17cm
    :height: 6.047cm
+.. |image16| image:: immagini/10000000000003A4000001DF2232A7CC6ED2A8BF.png
+   :width: 14.002cm
+   :height: 7.195cm
+.. |image17| image:: immagini/10000000000003B700000154895A4964DEC3EC8B.png
+   :width: 14.002cm
+   :height: 5.004cm
+.. |image18| image:: immagini/100000000000039C000002FA30FD5D0A792B17AA.png
+   :width: 14.002cm
+   :height: 11.546cm
+.. |image19| image:: immagini/10000000000003A6000001DD27C780AF168255DC.png
+   :width: 14.002cm
+   :height: 7.149cm
+.. |image20| image:: immagini/10000000000003AC00000150FD97254C39AD9463.png
+   :width: 14.002cm
+   :height: 5.004cm
+.. |image21| image:: immagini/100000000000039F000002FD5D03EB4AB8FB2640.png
+   :width: 14.002cm
+   :height: 11.553cm
+.. |image22| image:: immagini/10000000000003A200000141A0B9C44ABFD55F9D.png
+   :width: 14.002cm
+   :height: 4.831cm
+.. |image23| image:: immagini/10000000000003A00000014C2B1026D97C3FE43D.png
+   :width: 14.002cm
+   :height: 5.008cm
+.. |image24| image:: immagini/10000000000003AC000002FB437CA2DABB6ECDA2.png
+   :width: 14.002cm
+   :height: 11.365cm
