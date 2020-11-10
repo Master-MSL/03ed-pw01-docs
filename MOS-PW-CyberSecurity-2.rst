@@ -132,13 +132,46 @@ SWOT
 In questa sezione si vuole evidenziare e schematizzare l’analisi SWOT
 inerente al Project Work.
 
-======= ============================ ==============================
-\       Vantaggi e opportunità       Rischi e Pericoli
-Interno Strenght – Punti di forza:   Weakness – Punti di debolezza:
-\                                    
-Esterno Opportunities – Opportunità: Threats – Minacce:
-\                                    
-======= ============================ ==============================
++----------+----------------------------+----------------------------+
+| Ambiente | Strenght – Punti di forza: | Weakness – Punti di        |
+|          |                            | debolezza:                 |
++----------+----------------------------+----------------------------+
+| Interno  | Riduzione tempi di         | Mancata integrazione con   |
+|          | reazione a problematiche   | asset tecnologico presente |
+|          | di sicurezza               | in azienda.                |
+|          |                            |                            |
+|          | Migliore protezione        | Enormi quantità di         |
+|          | dell’infrastruttura        | informazioni condivise che |
+|          |                            | possono trasformarsi in    |
+|          | Semplificazione nella      | una “non informazione” e   |
+|          | gestione degli incidenti   | quindi perdita di          |
+|          | informatici                | interesse.                 |
+|          |                            |                            |
+|          | Prevenzione attacchi       | Resistenze interne sul     |
+|          | informatici                | nuovo modo di lavoro.      |
+|          |                            |                            |
+|          | Unico punto di             |                            |
+|          | osservazione               |                            |
++----------+----------------------------+----------------------------+
+|          | Opportunities –            | Threats – Minacce:         |
+|          | Opportunità:               |                            |
++----------+----------------------------+----------------------------+
+| Esterno  | Condivisione degli eventi  | Aumento di attacchi        |
+|          | critici.                   | informatici sempre più     |
+|          |                            | complessi                  |
+|          | Partecipazione attiva alla |                            |
+|          | risoluzione di problemi i  | Condivisione di attacchi   |
+|          | sicurezza                  | informatici non utili alla |
+|          |                            | propria infrastruttura.    |
+|          | Crescita del know-how      |                            |
+|          | grazie alla condivisione   | Non condivisione degli     |
+|          | della soluzione a minacce  | attacchi e presenza di     |
+|          | informatiche               | soli ascoltatori.          |
+|          |                            |                            |
+|          | Coerenza con Piano         |                            |
+|          | trieannale 2019-2021 Agid  |                            |
++----------+----------------------------+----------------------------+
+
 
 **Strategie SO:** è necessario condividere e formare ad ogni livello
 aziendale i punti di forza e le opportunità che si avrebbero
