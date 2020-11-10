@@ -1,10 +1,4 @@
-MASTER IN MANAGEMENT DEL SOFTWARE LIBERO 2019/2020
-
-Project Work:
-
-Studio di fattibilità per la realizzazione e mantenimento di soluzioni
-CTI Open Source in ambito Cyber Security.
-
+=====================
 Analisi Organizzativa
 =====================
 
