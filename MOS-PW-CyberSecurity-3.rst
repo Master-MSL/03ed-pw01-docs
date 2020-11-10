@@ -1146,3 +1146,34 @@ tipo di problema.
 Questo aspetto sicuramente andrebbe migliorato nei progetti TheHive e
 Cortex ma la presenza di un supporto presidiato permette
 all’utilizzatore finale di aver maggior fiducia verso questi progetti.
+
+.. |image6| image:: immagini/100000000000038E0000049622FCC8E83421356A.jpg
+   :width: 10.074cm
+   :height: 16.116cm
+.. |image7| image:: immagini/1000020100000591000002F6071A0D7BDF5DB3C9.png
+   :width: 15.723cm
+   :height: 8.363cm
+.. |image8| image:: immagini/10000201000005910000030FB8C0BFA4BAF30CB5.png
+   :width: 15.699cm
+   :height: 8.625cm
+.. |image9| image:: immagini/1000020100000591000002F648603CB986381A67.png
+   :width: 16.032cm
+   :height: 8.527cm
+.. |image10| image:: immagini/10000201000005910000032D1AE5514D9F92C6B7.png
+   :width: 16.053cm
+   :height: 9.158cm
+.. |image11| image:: immagini/1000020100000591000004039F8FF09C3BEDF7EE.png
+   :width: 16.452cm
+   :height: 11.857cm
+.. |image12| image:: immagini/1000020100000591000003606FF93CAF39D1B52F.png
+   :width: 16.723cm
+   :height: 10.139cm
+.. |image13| image:: immagini/1000020100000591000002F6A130B71276FDE8EA.png
+   :width: 17cm
+   :height: 9.042cm
+.. |image14| image:: immagini/10000000000004660000037C562A5C2349443969.png
+   :width: 17cm
+   :height: 13.467cm
+.. |image15| image:: immagini/100000000000042F0000017D68186EAE385F4ED3.png
+   :width: 17cm
+   :height: 6.047cm
