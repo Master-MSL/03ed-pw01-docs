@@ -36,7 +36,7 @@ modalità:
    Management
 
 Informazioni leggibili da una macchina/sistema di sicurezza
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------
 
 Sono informazioni principalmente di monitoraggio e/o notifica in tempo
 reale, generalmente chiamati Indicator Of Compromise abbreviato in IoC
@@ -58,7 +58,7 @@ esterne) o si è già verificata (fonti interne) ma con approcci e
 obiettivi puramente tecnici.
 
 Informazioni prodotto da un team di specialisti
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------
 
 Sono informazioni acquisite da diverse fonti (Commerciali o Open
 Source), contenenti elementi come TTP (Tactics, Techniques and
@@ -589,14 +589,14 @@ Questo sistema permette di:
    MISP per ottenere automaticamente tutte le modifiche.
 
 Condividere con gli umani
-'''''''''''''''''''''''''
+-------------------------
 
 I dati archiviati sono immediatamente disponibili per colleghi e
 partner. Memorizza l'ID evento nel tuo sistema di biglietteria o sarai
 informato dalle notifiche e-mail firmate e crittografate.
 
 Condivisione con le macchine
-''''''''''''''''''''''''''''
+----------------------------
 
 Generando regole Snort/Suricata/Bro/Zeek IDS, le esportazioni STIX,
 OpenIOC, text o csv MISP consente di importare automaticamente i dati
@@ -614,7 +614,7 @@ Grazie a questa automazione e allo sforzo degli altri, ora si è in
 possesso di preziosi indicatori di compromesso senza lavoro aggiuntivo.
 
 Condivisione collaborativa di analisi e correlazione
-''''''''''''''''''''''''''''''''''''''''''''''''''''
+----------------------------------------------------
 
 Quando vengono aggiunti nuovi dati, MISP mostrerà immediatamente le
 relazioni con altri osservabili e indicatori esitenti. Ciò si traduce in
@@ -861,8 +861,6 @@ altri formati. È importante notare che STIX e TAXII sono standard
 indipendenti: le strutture e le serializzazioni di STIX non si basano su
 alcun meccanismo di trasporto specifico e TAXII può essere utilizzato
 per trasportare dati non STIX.
-
-` <https://exchange.xforce.ibmcloud.com/>`__
 
 I principi di progettazione di TAXII comprendono la riduzione al minimo
 delle modifiche operative necessarie per l'adozione; facile integrazione
