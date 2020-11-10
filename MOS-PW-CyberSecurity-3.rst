@@ -123,10 +123,10 @@ un elenco delle principali soluzioni CTI OpenSource e Commerciali
 esistenti sul mercato:
 
 +---------+---------+---------+---------+---------+---------+---------+
-| *       | *       | *       | **      | **      | Licence | Last    |
-| *Name** | *Type** | *Year** | Owner** | Project |         | Update  |
-|         |         |         |         | si      |         |         |
-|         |         |         |         | te(s)** |         |         |
+|         |         |         |         |         | Licence | Last    |
+|  Name   |  Type   |  Year   | Owner   | Project |         | Update  |
+|         |         |         |         | site(s) |         |         |
+|         |         |         |         |         |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
 | Collab  | Open    | 2014    | MITRE   | `link   | MIT     | 29/     |
 | orative | Source  |         |         | 1 <ht   | Licence | 07/2019 |
@@ -134,30 +134,30 @@ esistenti sul mercato:
 | esearch |         |         |         | nk/>`__ |         |         |
 | Into    |         |         |         |         |         |         |
 | Threats |         |         |         | `link   |         |         |
-| (CRITs) |         |         |         | 2 <     |         |         |
-|         |         |         |         | https:/ |         |         |
+| (CRITs) |         |         |         | 2 <ht   |         |         |
+|         |         |         |         | tps:/   |         |         |
 |         |         |         |         | /github |         |         |
 |         |         |         |         | .com/cr |         |         |
 |         |         |         |         | its>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
 | Col     | Open    | 2012    | CSIRT   | `link   | Mozilla | 07/     |
-| lective | Source  |         | Gadgets | 1 <     | Public  | 06/2020 |
-| Intel   |         |         |         | http:// | License |         |
+| lective | Source  |         | Gadgets | 1 <ht   | Public  | 06/2020 |
+| Intel   |         |         |         | tp://   | License |         |
 | ligence |         |         | Fou     | csirtga | Version |         |
 | Fr      |         |         | ndation | dgets.o | 2.0     |         |
 | amework |         |         |         | rg/>`__ |         |         |
 | (CIF)   |         |         |         |         |         |         |
 |         |         |         |         | `link   |         |         |
-|         |         |         |         | 2 <     |         |         |
-|         |         |         |         | https:/ |         |         |
+|         |         |         |         | 2 <ht   |         |         |
+|         |         |         |         | tps:/   |         |         |
 |         |         |         |         | /github |         |         |
 |         |         |         |         | .com/cs |         |         |
 |         |         |         |         | irtgadg |         |         |
 |         |         |         |         | ets>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| GOSINT  | Open    | 2017    | Cisco   | l\ `ink | Co      | 04/     |
-|         | Source  |         |         | 1       | pyright | 08/2018 |
-|         |         |         |         |  <https | (c)     |         |
+| GOSINT  | Open    | 2017    | Cisco   | `link   | Co      | 04/     |
+|         | Source  |         |         | 1 <ht   | pyright | 08/2018 |
+|         |         |         |         | tps     | (c)     |         |
 |         |         |         |         | ://gith | 2017,   |         |
 |         |         |         |         | ub.com/ | Cisco   |         |
 |         |         |         |         | ciscocs | S       |         |
@@ -173,8 +173,8 @@ esistenti sul mercato:
 |         |         |         |         | en/late |         |         |
 |         |         |         |         | st/>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| MANTIS  | Open    | 2013    | SIEMENS | `l      | GNU     | 29/     |
-| Cyber   | Source  |         |         | ink <ht | General | 11/2013 |
+| MANTIS  | Open    | 2013    | SIEMENS | `link   | GNU     | 29/     |
+| Cyber   | Source  |         |         | <ht     | General | 11/2013 |
 | Threat  |         |         |         | tps://g | Public  |         |
 | Intel   |         |         |         | ithub.c | License |         |
 | ligence |         |         |         | om/siem | v2.0    |         |
@@ -191,8 +191,8 @@ esistenti sul mercato:
 | latform |         |         |         | rg/>`__ | v3.0    |         |
 | (MISP)  |         |         |         |         |         |         |
 |         |         |         |         | `link   |         |         |
-|         |         |         |         | 2       |         |         |
-|         |         |         |         | <https: |         |         |
+|         |         |         |         | 2 <ht   |         |         |
+|         |         |         |         | tps:    |         |         |
 |         |         |         |         | //githu |         |         |
 |         |         |         |         | b.com/M |         |         |
 |         |         |         |         | ISP>`__ |         |         |
@@ -231,40 +231,40 @@ esistenti sul mercato:
 |         |         |         |         | i-platf |         |         |
 |         |         |         |         | orm>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| TheHive | Open    | 2014    | TheHive | `li     | GNU     | 25/     |
-|         | Source  |         |         | nk <htt | Affero  | 04/2020 |
+| TheHive | Open    | 2014    | TheHive | `link   | GNU     | 25/     |
+|         | Source  |         |         | <htt    | Affero  | 04/2020 |
 |         |         |         |         | ps://gi | General |         |
 |         |         |         |         | thub.co |         |         |
 |         |         |         |         | m/TheHi | Public  |         |
 |         |         |         |         | ve-Proj | Licence |         |
 |         |         |         |         | ect>`__ | v3.0    |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| Cortex  | Open    | 2014    | TheHive | `li     | GNU     | 20/     |
-|         | Source  |         |         | nk <htt | Affero  | 01/2020 |
+| Cortex  | Open    | 2014    | TheHive | `link   | GNU     | 20/     |
+|         | Source  |         |         | <htt    | Affero  | 01/2020 |
 |         |         |         |         | ps://gi | General |         |
 |         |         |         |         | thub.co |         |         |
 |         |         |         |         | m/TheHi | Public  |         |
 |         |         |         |         | ve-Proj | Licence |         |
 |         |         |         |         | ect>`__ | v3.0    |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| Threa   | Com     | 2013    | Anomali | `       |         | n.a.    |
-| tStream | mercial |         |         | link <h |         |         |
+| Threa   | Com     | 2013    | Anomali | `link   |         | n.a.    |
+| tStream | mercial |         |         | <h      |         |         |
 |         |         |         |         | ttps:// |         |         |
 |         |         |         |         | www.ano |         |         |
 |         |         |         |         | mali.co |         |         |
 |         |         |         |         | m/platf |         |         |
 |         |         |         |         | orm>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| Ecl     | Com     | 2014    | Ecl     | `lin    |         | n.a.    |
-| ecticIQ | mercial |         | ecticIQ | k <http |         |         |
+| Ecl     | Com     | 2014    | Ecl     | `link   |         | n.a.    |
+| ecticIQ | mercial |         | ecticIQ | <http   |         |         |
 | P       |         |         |         | s://www |         |         |
 | latform |         |         |         | .eclect |         |         |
 |         |         |         |         | iciq.co |         |         |
 |         |         |         |         | m/platf |         |         |
 |         |         |         |         | orm>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| Looki   | Com     | 2015    | Looki   | `lin    |         | n.a.    |
-| ngGlass | mercial |         | ngGlass | k <http |         |         |
+| Looki   | Com     | 2015    | Looki   | `link   |         | n.a.    |
+| ngGlass | mercial |         | ngGlass | <http   |         |         |
 |         |         |         |         | s://www |         |         |
 |         |         |         |         | .lookin |         |         |
 |         |         |         |         | gglassc |         |         |
@@ -275,8 +275,8 @@ esistenti sul mercato:
 |         |         |         |         | elligen |         |         |
 |         |         |         |         | ce/>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| C       | Com     | 2019    | C       | `       |         | n.a.    |
-| elerium | mercial |         | elerium | link <h |         |         |
+| C       | Com     | 2019    | C       | `link   |         | n.a.    |
+| elerium | mercial |         | elerium | <h      |         |         |
 |         |         |         |         | ttps:// |         |         |
 |         |         |         |         | www.cel |         |         |
 |         |         |         |         | erium.c |         |         |
@@ -289,22 +289,22 @@ esistenti sul mercato:
 |         |         |         |         | nnect.c |         |         |
 |         |         |         |         | om/>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| ThreatQ | Com     | 2015    | ThreatQ | `       |         | n.a.    |
-| P       | mercial |         | uotient | link <h |         |         |
+| ThreatQ | Com     | 2015    | ThreatQ | `link   |         | n.a.    |
+| P       | mercial |         | uotient | <h      |         |         |
 | latform |         |         |         | ttps:// |         |         |
 |         |         |         |         | www.thr |         |         |
 |         |         |         |         | eatq.co |         |         |
 |         |         |         |         | m/threa |         |         |
 |         |         |         |         | tq/>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| TruSTAR | Com     | 2014    | TruSTAR | `l      |         | n.a.    |
-|         | mercial |         | Techn   | ink <ht |         |         |
+| TruSTAR | Com     | 2014    | TruSTAR | `link   |         | n.a.    |
+|         | mercial |         | Techn   | <ht     |         |         |
 |         |         |         | ologies | tps://t |         |         |
 |         |         |         |         | rustar. |         |         |
 |         |         |         |         | co/>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| Open    | Co      | 2012    | Ali     | `l      |         | n.a.    |
-| Threat  | mmunity |         | enVault | ink <ht |         |         |
+| Open    | Co      | 2012    | Ali     | `link   |         | n.a.    |
+| Threat  | mmunity |         | enVault | <ht     |         |         |
 |         |         |         |         | tps://w |         |         |
 | E       |         |         |         | ww.alie |         |         |
 | xchange |         |         |         | nvault. |         |         |
@@ -313,16 +313,16 @@ esistenti sul mercato:
 |         |         |         |         | t-excha |         |         |
 |         |         |         |         | nge>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| ThreatE | Co      | 2015    | F       | `lin    |         | n.a.    |
-| xchange | mmunity |         | acebook | k <http |         |         |
-|         |         |         |         | s://dev |         |         |
-|         |         |         |         | elopers |         |         |
-|         |         |         |         | .facebo |         |         |
-|         |         |         |         | ok.com/ |         |         |
-|         |         |         |         | product |         |         |
-|         |         |         |         | s/threa |         |         |
-|         |         |         |         | t-excha |         |         |
-|         |         |         |         | nge>`__ |         |         |
+| ThreatE | Co      | 2015    | F       |`link    |         | n.a.    |
+| xchange | mmunity |         | acebook |<https://|         |         |
+|         |         |         |         |developer|         |         |
+|         |         |         |         |s.fa     |         |         |
+|         |         |         |         |cebook.  |         |         |
+|         |         |         |         |com/     |         |         |
+|         |         |         |         |products |         |         |
+|         |         |         |         |/threat  |         |         |
+|         |         |         |         |-excha   |         |         |
+|         |         |         |         |nge>`__  |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
 | X-Force | Co      | 2015    | IBM     | `link   |         | n.a.    |
 | E       | mmunity |         |         | <https: |         |         |
@@ -332,8 +332,8 @@ esistenti sul mercato:
 |         |         |         |         | cloud.c |         |         |
 |         |         |         |         | om/>`__ |         |         |
 +---------+---------+---------+---------+---------+---------+---------+
-| Threat  | Co      | 2015    | Micro   | `lin    |         | n.a.    |
-| Central | mmunity |         | Focus   | k <http |         |         |
+| Threat  | Co      | 2015    | Micro   | `link   |         | n.a.    |
+| Central | mmunity |         | Focus   | <http   |         |         |
 |         |         |         |         | s://www |         |         |
 |         |         |         |         | .microf |         |         |
 |         |         |         |         | ocus.co |         |         |
