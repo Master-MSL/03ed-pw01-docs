@@ -166,3 +166,10 @@ problema le stesse annullandole.
 
 **Strategie ST:**\ in questo caso i punti di forza possono compensare,
 cogliendone i benefici, le minacce individuate.
+
+.. |image4| image:: immagini/100000000000043500000295F5080D8E5C58336F.png
+   :width: 17cm
+   :height: 10.433cm
+.. |image5| image:: immagini/100000000000050F000000548D4124038A44129E.png
+   :width: 17cm
+   :height: 1.984cm
