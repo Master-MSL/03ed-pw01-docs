@@ -9,9 +9,7 @@ Questo progetto riguarda l'analisi e la scelta di una soluzione Open Source che 
 Analisi Orgazzativa
 -------------------
 
-:doc:`mos_pw_cyber_security_1.rst`
-
-Nel [Capitolo 1]`link <mos_pw_cyber_security_1.rst>'__ vengono presentati gli aspetti organizzativi: analisi dell'ambiente esterno, ambiente interno, la stuttura organizzativo, la mission e possibili strategie organizzative.
+Nel Capitolo 1 vengono presentati gli aspetti organizzativi: analisi dell'ambiente esterno, ambiente interno, la stuttura organizzativo, la mission e possibili strategie organizzative.
 
 Analisi Economica
 -----------------
