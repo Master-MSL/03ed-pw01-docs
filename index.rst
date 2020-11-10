@@ -15,3 +15,9 @@ Nel Capitolo 3 vengono presentati gli aspetti tecnologici: le analisi delle solu
 Nel Capitolo 4 vengono presentati gli aspetti legali: approfondendo l'uso di quali licence Open Source utilizzato dalla soluzione individuata e possibili vincoli, criticità e/o opportunità che emergono dall'uso di questi strumenti da un punto di vista legale.
 
 Nel Capitolo 5 vengono presentate le conclusioni emerse dal contesto analizzato.
+
+.. toctree::
+   :maxdepth: 2
+
+   MOS-PW-CyberSecurity-1
+   MOS-PW-CyberSecurity-2
