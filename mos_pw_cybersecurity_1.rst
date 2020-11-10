@@ -1,3 +1,8 @@
+.. contents::
+    :backlinks: none
+
+.. sectnum::
+
 =====================
 Analisi Organizzativa
 =====================
