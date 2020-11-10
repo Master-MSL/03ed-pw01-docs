@@ -1,4 +1,4 @@
-.. contents::
+.. contents:: Contenuto
     :backlinks: none
 
 .. sectnum::
