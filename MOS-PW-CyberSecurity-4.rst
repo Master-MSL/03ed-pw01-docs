@@ -351,3 +351,7 @@ fatte in precedenza e su come poter approcciare un eventuale
 arricchimento della soluzione definitiva.
 
 .. _section-7:
+
+.. |image25| image:: immagini/1000000000000252000001F21A16020B973D5A40.png
+   :width: 13.028cm
+   :height: 10.922cm
