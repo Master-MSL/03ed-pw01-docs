@@ -514,3 +514,13 @@ verso il cliente finale.
 
 Naturalmente le strategie di alto livello saranno gestite dalla
 direzione generale.
+
+.. |image1| image:: immagini/1000000000000300000001B012DB9774AD3657B9.jpg
+   :width: 17cm
+   :height: 9.562cm
+.. |image2| image:: immagini/10000000000006290000049FE24F4713C77950D3.jpg
+   :width: 14.626cm
+   :height: 10.971cm
+.. |image3| image:: immagini/10003DCE0001FFE00001800019F36F495E205B5B.pdf
+   :width: 16.013cm
+   :height: 12.012cm
