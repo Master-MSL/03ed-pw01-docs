@@ -1,3 +1,6 @@
+.. contents:: Contenuto
+    :backlinks: none
+    
 Studio delle licenze open-source e loro compatibilità
 =====================================================
 
