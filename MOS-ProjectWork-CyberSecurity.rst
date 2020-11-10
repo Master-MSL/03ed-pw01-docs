@@ -1,4 +1,4 @@
-=====================
+
 Analisi Organizzativa
 =====================
 
@@ -427,7 +427,7 @@ riguarderanno in particolare:
    problematica e condividerla.
 
 Strategia corporate
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 La quasi totalità delle aziende nazionali, per il momento possiamo
 limitarci al nostro perimetro ma in realtà potremmo tranquillamente
@@ -452,7 +452,7 @@ Essendo un argomento di interesse comune sarà necessario veicolare e
 promuovere l’iniziativa verso la più ampia platea possibile.
 
 Strategia di business
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 Il coinvolgimento di un’ampia platea darà la possibilità di recepire la
 maggior parte di casi d’uso possibile che permetteranno di creare uno
@@ -483,7 +483,7 @@ tempo la Community, le infrastrutture e il software necessario a gestire
 questo progetto.
 
 Strategia funzionale
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Essendo l’argomento e l’ambiente esterno molto complessi è necessario
 coordinare le attività fin dall’inizio e ogni aspetto decisionale andrà
@@ -524,14 +524,14 @@ Project), ogni WP sarà di responsabilità di gruppi specifici che
 dovranno occuparsi delle macro attività indicate.
 
 WP1: Coordinamento
-~~~~~~~~~~~~~~~~~~
+------------------
 
 -  **Definizione del partnership strategico**: fase strategica per
    determinare e definire i partner strategici che potrebbe determinare
    valore aggiunto nella definizione ed esecuzione del progetto.
 
 WP2: Community
-~~~~~~~~~~~~~~
+--------------
 
 -  **Definizione delle regole**: è necessario definire e determinare
    regole e modalità di utilizzo della community. Come in ogni community
@@ -549,7 +549,7 @@ WP2: Community
    servizio deve essere erogato.
 
 WP3: Raccolta Requisiti
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 -  **Intervista partner**: partendo da un elenco di requisiti generici,
    che potrebbero essere considerati la base comune su cui partire il
@@ -574,7 +574,7 @@ WP3: Raccolta Requisiti
    dal punto di vista delle tempistiche e dei costi.
 
 WP4: Sviluppo del prodotto
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 -  Sviluppo nuove funzionalità:
 -  Sviluppo delle componenti di monitoraggio
@@ -583,13 +583,13 @@ WP4: Sviluppo del prodotto
 -  Integrazione tra le parti
 
 WP5: Test del prodotto
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 -  Verifica e rispetto dei requisiti
 -  Test funzionali
 
 WP6: Collaudo
-~~~~~~~~~~~~~
+-------------
 
 -  Verifica di installabilità
 -  Verifica rispetto dei requisiti di sicurezza
@@ -597,7 +597,7 @@ WP6: Collaudo
 -  Verifica di Disaster Recovery (DR)
 
 WP7: Marketing e Formazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 -  **Definizione di strategie**: necessaria per affrontare in modo
    organizzato le fasi di marketing e formazione. Argomento fondamentale
@@ -621,7 +621,7 @@ WP7: Marketing e Formazione
    soluzione con affiancamento di un operatore.
 
 Implementation Plan
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 Analizzando le diverse attività è stato definito un GANTT che
 rappresenta le macro attività che dovremmo affrontare durante la
@@ -644,7 +644,7 @@ dal Gantt.
 .. _section-4:
 
 SWOT
-~~~~
+----
 
 In questa sezione si vuole evidenziare e schematizzare l’analisi SWOT
 inerente al Project Work.
@@ -1118,7 +1118,7 @@ La soluzione prevede l’uso di questi strumenti:
 -  MISP
 
 TheHive
-~~~~~~~
+-------
 
 E’ una piattaforma di Security Incident Response scalabile open source
 completamente integrata con il MISP (Malware Information Sharing
@@ -1155,7 +1155,7 @@ Una volta completate le indagini, esportare IOC in una o più istanze
 MISP.
 
 Cortex
-~~~~~~
+------
 
 Cortex è uno strumento capace di interagire con numerosi altri servizi,
 ad oggi ne sono disponibili 147, tra cui alcuni gratuiti e alcuni a
@@ -1180,7 +1180,7 @@ al motore di report di TheHive è possibile visualizzarlo nel modo
 desiderato.
 
 MISP
-~~~~
+----
 
 Una piattaforma di intelligence per la condivisione delle minacce,
 l'archiviazione e la correlazione degli indicatori di compromissione
@@ -1310,7 +1310,7 @@ La funzione di discussione consentirà anche conversazioni tra più
 analisti con conseguente beneficio per tutti.
 
 Architettura
-~~~~~~~~~~~~
+------------
 
 Sia TheHive che Cortex forniscono librerie per essere integrate con
 strumenti di terze parti, queste librerie, chiamate: TheHive4py e
@@ -1339,7 +1339,7 @@ singolo strumento permettendo di gestire con accuratezza anche aspetti
 di privacy.
 
 Caso d’uso
-~~~~~~~~~~
+----------
 
 Senza entrare nel merito delle singole piattaforme e delle diverse
 caratteristiche che ognuno può offrire che demandiamo alle
@@ -1419,7 +1419,7 @@ poterlo condividere con altre organizzazioni e ad altri MISP esistenti.
 .. _section-5:
 
 Interoperabilità e tipi di dati
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 L'interoperabilità tra i sistemi è assicurata da collegamenti punto a
 punto così facendo è possibile ottenere altri casi d’uso interessanti in
@@ -1445,7 +1445,7 @@ Sia MISP che Cortex, pur avendo obbiettivi diversi, permettono
 l’integrazione con sistemi esterni facendo uso di protocolli STIX/TAXII.
 
 STIX
-~~~~
+----
 
 Con STIX, tutti gli aspetti di sospetto, compromesso e attribuzione
 possono essere rappresentati chiaramente con oggetti e relazioni
@@ -1500,7 +1500,7 @@ Gli oggetti sono:
 |image14|
 
 TAXII
-~~~~~
+-----
 
 E' un protocollo a livello applicativo utilizzato per scambiare
 informazioni di threat intelligence in HTTPS.
@@ -1613,7 +1613,7 @@ vogliono indicare lo stato attuale del progetto.
 .. _misp-1:
 
 MISP
-~~~~
+----
 
 url: https://github.com/MISP/MISP
 
@@ -1626,7 +1626,7 @@ Network      |image18|
 .. _thehive-1:
 
 TheHive
-~~~~~~~
+-------
 
 url: https://github.com/TheHive-Project/TheHive
 
@@ -1639,7 +1639,7 @@ Network      |image21|
 .. _cortex-1:
 
 Cortex
-~~~~~~
+------
 
 url: https://github.com/TheHive-Project/Cortex
 
@@ -1774,7 +1774,7 @@ siano indipendenti l’uno dall’altro e che la presenza di uno dei
 progetti non inibisca la propria efficacia e le proprie funzionalità.
 
 Security Policy
-~~~~~~~~~~~~~~~
+---------------
 
 Un aspetto importante è capire come è implementato e come sono gestiti
 all’interno del progetto gli aspetti di sicurezza.
