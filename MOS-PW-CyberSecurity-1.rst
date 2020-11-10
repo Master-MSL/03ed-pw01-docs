@@ -521,6 +521,6 @@ direzione generale.
 .. |image2| image:: immagini/10000000000006290000049FE24F4713C77950D3.jpg
    :width: 14.626cm
    :height: 10.971cm
-.. |image3| image:: immagini/10003DCE0001FFE00001800019F36F495E205B5B.pdf
+.. |image3| image:: immagini/10003DCE0001FFE00001800019F36F495E205B5B.png
    :width: 16.013cm
    :height: 12.012cm
