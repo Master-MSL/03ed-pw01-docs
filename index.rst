@@ -20,8 +20,8 @@ Nel Capitolo 5 vengono presentate le conclusioni emerse dal contesto analizzato.
   :maxdepth: 2
   :caption: Indice dei contenuti
 
-  MOS-PW-CyberSecurity-1.rst
-  MOS-PW-CyberSecurity-2.rst
-  MOS-PW-CyberSecurity-3.rst
-  MOS-PW-CyberSecurity-4.rst
-  MOS-PW-CyberSecurity-5.rst
+  mos_pw_cybersecurity_1.rst
+  mos_pw_cybersecurity_2.rst
+  mos_pw_cybersecurity_3.rst
+  mos_pw_cybersecurity_4.rst
+  mos_pw_cybersecurity_5.rst
